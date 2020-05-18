@@ -11,6 +11,9 @@ Sample website with plenty of files for demos
 Do the development
 
 ### Testing
-adbihhhdygdyu ydg yugduihunuh
+Test the code
+
+### Production
+Deploy on the production
  
  
